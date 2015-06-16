@@ -8,6 +8,7 @@
 // @include     https://www.endomondo.com/profile/*
 // @include     https://www.endomondo.com/*
 // @version     1
+// @homepageURL http://krzysztofplaczek.name
 // @grant		none
 // ==/UserScript==
 
